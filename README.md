@@ -5,7 +5,7 @@ best bombing tool ever
 
 1.python
 
-#Install 
+# Install 
 
 pkg install python -y
 
@@ -14,7 +14,7 @@ pkg install git
 gitclone github.com/darkrebel777/Rbomb
 
 
-#Run 
+# Run 
 
 python Rbomb.py
 
