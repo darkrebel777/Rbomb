@@ -11,7 +11,11 @@ pkg install python -y
 
 pkg install git
 
-gitclone github.com/darkrebel777/Rbomb
+git clone https://github.com/darkrebel777/Rbomb
+
+cd Rbomb
+
+python Rbomb.py
 
 
 # Run 
