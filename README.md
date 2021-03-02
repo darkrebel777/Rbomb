@@ -1,4 +1,22 @@
 # Rbomb
 best bombing tool ever
-I will try to add new updates in future.
+
+#Requirements
+
+1.python
+
+#Install 
+
+pkg install python -y
+
+pkg install git
+
+gitclone github.com/darkrebel777/Rbomb
+
+
+#Run 
+
+python Rbomb.py
+
+# Bye Bye have a great day.
 
