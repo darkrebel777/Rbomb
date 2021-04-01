@@ -35,7 +35,7 @@ print("|------------------------------------------------------------|----" + Col
 print("")
 print(Colours.green + "[" + Colours.Cyan + ">" + Colours.green + "]" + "Note        :" + Colours.yellow + "  This tool is only for Educational purpose")
 print(Colours.green + "[" + Colours.Cyan + ">" + Colours.green + "]" + "Author      :" + Colours.yellow + "  DarkRebel")
-print(Colours.green + "[" + Colours.Cyan + ">" + Colours.green + "]" + "Instagram   :" + Colours.yellow + "  https://instagram.com/iamrebel777")
+print(Colours.green + "[" + Colours.Cyan + ">" + Colours.green + "]" + "Telegram    :" + Colours.yellow + "  @Dark_Rebell")
 print(Colours.green + "[" + Colours.Cyan + ">" + Colours.green + "]" + "Github      :" + Colours.yellow + "  https://github.com/darkrebel777/Rbomb")
 print(Colours.red + "==================================================================================================")
 print("")
